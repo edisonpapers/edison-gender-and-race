@@ -1,5 +1,4 @@
-.ve-header "Race, Gender, and the American Patent System in the Age of Edison" https://edisondigital.rutgers.edu/iiif/N306103 "Poems by and about Thomas A. Edison" pct:30,30,60,40 center sticky  
-
+.ve-header "Race, Gender, and the American Patent System in the Age of Edison" https://edisondigital.rutgers.edu/iiif/MA036 "subtitle here" pct:30,30,60,40 center sticky 
 - [Home](/)
     - [Introduction](/introduction)
     - [Black Men Inventors](/black-men-inventors)
