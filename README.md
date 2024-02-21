@@ -1,6 +1,4 @@
-# Race, Gender, and the American Patent System in the Age of Edison
-
-This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Valentina Zambrano from the Rutgers Public History Certificate program, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
+.ve-header "Race, Gender, and the American Patent System in the Age of Edison" https://edisondigital.rutgers.edu/iiif/N306103 "Poems by and about Thomas A. Edison" pct:30,30,60,40 center sticky - 
 
 - [Home](/)
     - [Introduction](/introduction)
@@ -8,7 +6,10 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
     - [Black Women Inventors](/black-women-inventors)
     - [White Women Inventors](/white-women-inventors)
     - [Invention Exhibitions](/invention-exhibitions)
+
+This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Valentina Zambrano from the Rutgers Public History Certificate program, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
   
+# Introduction
 
 By the end of his career, Thomas A. Edison had amassed a total of [1,093 U.S. patents](https://archive.org/details/edison-patent). Most of his patents related to the following industries: 1) electric light and power, 2) sound recordings, 3) telegraphs and telephones, 4) batteries, 5) oil mining and milling, and 6) Portland cement. They also included improvements for motion picture technology, office macinery, chemical production, and miscellaneous other subjects. 
 
