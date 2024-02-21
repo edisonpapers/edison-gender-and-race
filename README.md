@@ -8,3 +8,41 @@
     - [Invention Exhibitions](/invention-exhibitions)
 
 This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director Paul Israel, intern Valentina Zambrano from the Rutgers Public History Certificate program, and Erin Mustard, who helps the project develop its digital and public humanities outreach.
+
+### Explore the Exhibit {.cards}
+
+#### Introduction {href=introduction}
+
+![](https://raw.githubusercontent.com/edisonpapers/media/main/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg)
+
+Read the Introduction 
+
+#### Black Men Inventors  {href=black-men-inventors}
+
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_01.png)
+
+Read the Essay
+
+#### Black Women Inventors {href=black-women-inventors}
+
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_02.png)
+
+Read the Essay
+
+#### White Women Inventors {href=white-women-inventors}
+
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_03.png)
+
+Read the Essay
+
+#### Invention Exhibitions {href=invention-exhibitions}
+
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
+
+Read the Essay
+
+#### Latimer {href=Latimer}
+
+![](https://raw.githubusercontent.com/edisonpapers/media/main/diary/Diary_Entry_04.png)
+
+Read the Essay
