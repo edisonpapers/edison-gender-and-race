@@ -13,7 +13,7 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
 
 #### Introduction {href=introduction}
 
-![](https://raw.githubusercontent.com/edisonpapers/media/main/ThomasAlvaEdison1884/Thomas_Alva_Edison_1884.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/0/06/Munn-Ad-1903.jpg)
 
 Read the Introduction 
 
