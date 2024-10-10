@@ -11,8 +11,7 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
 
 ### Explore the Exhibit {.cards}
 
-#### Race Gender, and the American Patent System in the Age of Edison
- {href=history}
+#### Race Gender, and the American Patent System in the Age of Edison {href=history}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/06/Munn-Ad-1903.jpg)
 
