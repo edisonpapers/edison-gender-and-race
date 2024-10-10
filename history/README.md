@@ -1,5 +1,13 @@
-.ve-header "Race Gender, and the American Patent System in the Age of Edison" https://edisondigital.rutgers.edu/iiif/PAT252386 "A Digital Exhibit" pct:10,50,150,150 sticky 
+.ve-header "Race Gender, and the American Patent System in the Age of Edison" https://edisondigital.rutgers.edu/iiif/PAT252386 "History of the Patent System" pct:10,50,150,150 sticky 
 
+    - [Home](/)
+    - [History of the Patent System](/history)
+    - [Black Men Inventors](/black-men-inventors)
+    - [Black Women Inventors](/black-women-inventors)
+    - [White Women Inventors](/white-women-inventors)
+    - [Invention Exhibitions](/invention-exhibitions)
+    - [Latimer](/latimer)
+    
 # Creating the U.S. Patent system 
 .ve-media wc:Constitution_of_the_United_States,_page_1.jpg left width=80%
 
