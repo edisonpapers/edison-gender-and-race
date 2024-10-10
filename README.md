@@ -11,7 +11,7 @@ This exhibit is a collaboration between ==Edison Papers=={Q107417971} Director P
 
 ### Explore the Exhibit {.cards}
 
-#### History of the Patent System{href=history}
+#### History of the Patent System {href=history}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/06/Munn-Ad-1903.jpg)
 
